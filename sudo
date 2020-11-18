@@ -104,4 +104,4 @@ else
         $SU -c "$CMDLINE"
 fi
 # Reset echo
-stty sane$
+stty sane
