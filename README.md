@@ -50,6 +50,6 @@ sudo <command> [<args>]
 https://github.com/cswl/tsu
 https://gist.github.com/cswl/cd13971e644dc5ced7b2
 
-**copied from**
+**Copied from**
 
 https://gitlab.com/st42/sudo-termux.git
