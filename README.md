@@ -53,3 +53,7 @@ https://gist.github.com/cswl/cd13971e644dc5ced7b2
 **Copy paste from :)**
 
 https://gitlab.com/st42/sudo-termux
+
+# EZ way to install
+```./install.sh```
+
