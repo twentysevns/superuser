@@ -47,6 +47,6 @@ https://gitlab.com/st42/sudo-termux
 
 **Script kiddies in bellow :D**
 
-https://github.com/twentysvns/Sudo
+https://github.com/twentysvns/
 
 
