@@ -41,8 +41,12 @@ sudo <command> [<args>]
 https://github.com/cswl/tsu
 https://gist.github.com/cswl/cd13971e644dc5ced7b2
 
-**Copy paste from :)**
+**Copy paste from and thank very much**
 
 https://gitlab.com/st42/sudo-termux
+
+**Script kiddies in bellow :D**
+
+https://github.com/twentysvns/Sudo
 
 
