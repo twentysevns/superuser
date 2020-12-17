@@ -1,4 +1,4 @@
-# termux-sudo
+# Termux-sudo
 A bash script that provides sudo for Termux
 Termux is a terminal emulator and Linux environment for Android
 
@@ -20,6 +20,10 @@ SUDO WILL NOT WORK WITHOUT SU
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 ```
+# EZ way to install
+1. ```cd sudo```
+2. ```chmod +x install.sh```
+3. ```./install.sh```
 
 **Features**
 
@@ -54,6 +58,4 @@ https://gist.github.com/cswl/cd13971e644dc5ced7b2
 
 https://gitlab.com/st42/sudo-termux
 
-# EZ way to install
-```./install.sh```
 
