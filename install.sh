@@ -52,10 +52,10 @@ echo "   0"
 sleep 2;clear
 echo " "
 echo " DHUAR!"
-sleep 0.3;clear
+sleep 0.9;clear
 echo " "
-echo " JANCOK!"
-sleep 0.7;clear
+echo "        JANCOK!"
+sleep 1;clear
 echo " "
 echo " :D"
 sleep 2
