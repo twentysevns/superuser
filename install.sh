@@ -2,8 +2,7 @@
 # updating pkg
 clear
 echo ' '
-echo ' '
-echo '  Updating pkg!'
+echo ' Updating pkg!'
 echo ' '
 echo ' '
 sleep 3
@@ -11,7 +10,7 @@ apt update;clear
 
 # Installing ncurses-utils to avoid eror
 echo ' '
-echo '  Installing addons to avoid eror...'
+echo ' Installing addons to avoid eror...'
 sleep 3
 apt install ncurses-utils;clear
 
@@ -25,9 +24,9 @@ chmod 700 /data/data/com.termux/files/usr/bin/sudo
 cd .. && rm -rf superuser
 
 # adding key
-mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings && clear
 
 # Dramatic scene :D
 echo '  Setup Preferences and removing files...'
-sleep 3 && exit
+sleep 10 && exit
 
