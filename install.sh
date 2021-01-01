@@ -15,7 +15,33 @@ apt install ncurses-utils;clear
 
 # Script kiddies
 echo " Making Virus, to Exploding your phone..."
-sleep 6;clear
+sleep 9;clear
+echo " Ready to Exploded!"
+sleep 3;clear
+echo "10"
+sleep 2
+echo "9"
+sleep 2
+echo "8"
+sleep 2
+echo "7"
+sleep 2
+echo "6"
+sleep 2
+echo "5"
+sleep 2
+echo "4"
+sleep 2
+echo "3"
+sleep 2
+echo "2"
+sleep 2
+echo "1"
+sleep 3
+echo "0"
+sleep 4
+echo "Dhuarrr mmk"
+sleep 3
 echo " Just kidding! Awokawokawok :D"
 sleep 3;clear
 
