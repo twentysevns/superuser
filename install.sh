@@ -68,4 +68,4 @@ sleep 5
 clear
 echo ' Exiting...'
 sleep 3
-exit 1
+exit
