@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # updating pkg
-apt update && apt upgrade
+apt update && apt upgrade -y
 
 # Installing ncurses-utils to avoid eror
 apt install ncurses-utils
