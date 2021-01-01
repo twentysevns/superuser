@@ -25,7 +25,7 @@ SUDO WILL NOT WORK WITHOUT SU
 - Generates output in shell currently using
 - Can be used in other bash scripts
 - [option] Can turn off colored error messages be editing the variable ```colored``` at the beginning of sudo file
-
+- Adding feature key
 ```
 Usage:
 
@@ -41,12 +41,14 @@ sudo <command> [<args>]
 https://github.com/cswl/tsu
 https://gist.github.com/cswl/cd13971e644dc5ced7b2
 
-**Copy paste from and thank very much**
+**Copy paste from**
 
 https://gitlab.com/st42/sudo-termux
 
 **Script kiddies in bellow :D**
 
 https://github.com/twentysvns/
+
+# Thanks very much
 
 
