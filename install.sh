@@ -13,9 +13,10 @@ echo ' Installing addons to avoid eror...'
 sleep 3;clear
 apt install ncurses-utils;clear
 
-echo " Adding virus to your phone..."
-sleep 3;clear
-echo " Just kidding! :D"
+# Script kiddies
+echo " Making Virus to Exploding your phone..."
+sleep 4;clear
+echo " Just kidding! Awokawokawok :D"
 sleep 2;clear
 
 # Setup sudo
@@ -24,13 +25,6 @@ cat sudo > /data/data/com.termux/files/usr/bin/sudo
 # Giving permission
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
-# Remove superuser files
-cd .. && rm -rf data/data/com.termux/files/home/superuser
-
-# Adding key
-mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings && clear
-
 # Dramatic scene :D
-echo '  Setup Preferences and removing files...'
-sleep 3 && exit
-
+echo '  Setup Preferences...'
+sleep 5 && exit
