@@ -2,12 +2,12 @@
 # updating pkg
 clear
 echo 'updating pkg!'
-Sleep 1
+Sleep 3
 apt update;clear
 
 # Installing ncurses-utils to avoid eror
 echo 'installing addons to avoid eror...'
-Sleep 2
+Sleep 3
 apt install ncurses-utils;clear
 
 # Setup sudo
@@ -26,6 +26,5 @@ mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TA
 
 # Dramatic scene :D
 echo 'Setup preference and removing files...'
-sleep 3
-exit
+sleep 3 && exit
 
