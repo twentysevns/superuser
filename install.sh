@@ -4,20 +4,19 @@
 # updating pkg
 clear
 echo ' Updating pkg...'
-echo ' '
 sleep 4;clear
 apt update;clear
 
 # Installing ncurses-utils to avoid eror
-echo ' Installing addons to avoid eror...'
+echo ' Installing addons to avoiding eror...'
 sleep 4;clear
 apt install ncurses-utils;clear
 
 ######################
 # Premiss
 echo " Making Virus, to Exploding your phone..."
-sleep 10;clear
-echo " Started to Explosion!"
+sleep 5;clear
+echo " Start Count!"
 sleep 2;clear
 echo "   10"
 sleep 1;clear
@@ -44,16 +43,16 @@ sleep 1.5;clear
 
 # Punchline
 echo " DHUAR!"
-sleep 0.3;clear
+sleep 0.3;
 echo "        JAN"
-sleep 0.1;clear
-echo "           COK!"
+sleep 0.2;
+echo "            COK!"
 sleep 1;clear
 
 # After
 echo " :D"
 sleep 2;clear
-echo " Just kidding!"
+echo " Blog!"
 sleep 3;clear
 #######################
 
@@ -64,9 +63,9 @@ cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
 # Dramatic scene :D
-echo ' Setup Preferences...'
+echo ' Chuaaakss, Setup Preferences...'
 sleep 5
 clear
-echo ' Exiting... '
+echo ' Exiting...'
 sleep 3
 exit 1
