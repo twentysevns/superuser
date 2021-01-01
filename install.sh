@@ -1,16 +1,19 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # updating pkg
-apt update && apt upgrade -y
+apt update
+clear
 
 # Installing ncurses-utils to avoid eror
+echo 'installing addons to avoid eror...'
+Sleep 3
 apt install ncurses-utils
+clear
 
 # Setup sudo
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
 # Giving permission
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
-clear
 
 # Remove superuser files
 sudo rm -rf $HOME/superuser
