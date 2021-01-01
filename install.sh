@@ -1,7 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # updating pkg
 clear
-echo ' '
 echo ' Updating pkg...'
 echo ' '
 sleep 4;clear
@@ -41,23 +40,29 @@ echo "   4"
 sleep 1;clear
 echo " "
 echo "   3"
-sleep 2;clear
+sleep 1;clear
 echo " "
 echo "   2"
-sleep 2;clear
+sleep 1.5;clear
 echo " "
 echo "   1"
-sleep 3;clear
-echo " "
-echo "   0"
-sleep 3;clear
-echo " "
-echo "  Dhuarrr! jnck"
 sleep 2;clear
 echo " "
-echo " Just kidding! Awokawokawok :D"
+echo "   0"
+sleep 2;clear
+echo " "
+echo " DHUAAAARRR!"
+sleep 0.5;clear
+echo " "
+echo " JANCOK!"
+sleep 1;clear
+echo " "
+echo " :D"
+sleep 2
+echo " "
+echo " Just kidding!
 sleep 3;clear
-
+ 
 # Setup sudo
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
