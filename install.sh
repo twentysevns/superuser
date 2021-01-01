@@ -18,6 +18,7 @@ cat 0vibrate.txt >> ~/.inputrc
 sudo su
 cat 0vibrate.txt >> ~/.inputrc
 
-# Deleting sudo directory
+# Deleting sudo directory!
+exit
 rm -rf /data/data/com.termux/files/home/sudo
 exit
