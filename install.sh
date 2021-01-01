@@ -43,7 +43,7 @@ echo "   3"
 sleep 1;clear
 echo " "
 echo "   2"
-sleep 1.5;clear
+sleep 1;clear
 echo " "
 echo "   1"
 sleep 1.5;clear
@@ -52,9 +52,9 @@ echo "   0"
 sleep 2;clear
 echo " "
 echo " DHUAR!"
-sleep 0.9;clear
+sleep 0.6;clear
 echo " "
-echo "        JANCOK!"
+echo "       JANCOK!"
 sleep 1;clear
 echo " "
 echo " :D"
