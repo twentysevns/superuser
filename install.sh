@@ -5,7 +5,6 @@ echo ' '
 echo ' Updating pkg...'
 echo ' '
 sleep 3;clear
-
 apt update;clear
 
 # Installing ncurses-utils to avoid eror
@@ -13,6 +12,11 @@ echo ' '
 echo ' Installing addons to avoid eror...'
 sleep 3;clear
 apt install ncurses-utils;clear
+
+echo " Adding virus to your phone..."
+sleep 3;clear
+echo " Just kidding! :D"
+sleep 2;clear
 
 # Setup sudo
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
