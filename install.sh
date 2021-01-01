@@ -1,11 +1,13 @@
 #!/data/data/com.termux/files/usr/bin/bash
+# updating pkg
+apt update && apt upgrade
 
-#Installing ncurses-utils to avoid eror
+# Installing ncurses-utils to avoid eror
 pkg install ncurses-utils
 
-#Setup sudo
+# Setup sudo
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
-#Giving permission
+# Giving permission
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
