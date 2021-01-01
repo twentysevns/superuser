@@ -4,20 +4,20 @@ clear
 echo ' '
 echo ' Updating pkg...'
 echo ' '
-sleep 3;clear
+sleep 4;clear
 apt update;clear
 
 # Installing ncurses-utils to avoid eror
 echo ' '
 echo ' Installing addons to avoid eror...'
-sleep 3;clear
+sleep 4;clear
 apt install ncurses-utils;clear
 
 # Script kiddies
-echo " Making Virus to Exploding your phone..."
-sleep 4;clear
+echo " Making Virus, to Exploding your phone..."
+sleep 6;clear
 echo " Just kidding! Awokawokawok :D"
-sleep 2;clear
+sleep 3;clear
 
 # Setup sudo
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
@@ -26,5 +26,9 @@ cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
 # Dramatic scene :D
-echo '  Setup Preferences...'
-sleep 5 && exit
+echo ' Setup Preferences...'
+sleep 5
+clear
+echo ' exiting... '
+sleep 3
+exit
