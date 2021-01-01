@@ -1,4 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
+# Setup
+
 # updating pkg
 clear
 echo ' Updating pkg...'
@@ -12,57 +14,50 @@ echo ' Installing addons to avoid eror...'
 sleep 4;clear
 apt install ncurses-utils;clear
 
-# Script kiddies
+######################
+# Premiss
 echo " Making Virus, to Exploding your phone..."
-sleep 9;clear
-echo " Start to Exploded!"
-sleep 3;clear
-echo " "
+sleep 10;clear
+echo " Started to Explosion!"
+sleep 2;clear
 echo "   10"
 sleep 1;clear
-echo " "
 echo "   9"
 sleep 1;clear
-echo " "
 echo "   8"
 sleep 1;clear
-echo " "
 echo "   7"
 sleep 1;clear
-echo " "
 echo "   6"
 sleep 1;clear
-echo " "
 echo "   5"
 sleep 1;clear
-echo " "
 echo "   4"
 sleep 1;clear
-echo " "
 echo "   3"
 sleep 1;clear
-echo " "
 echo "   2"
 sleep 1;clear
-echo " "
 echo "   1"
-sleep 1.5;clear
-echo " "
-echo "   0"
-sleep 2;clear
-echo " "
-echo " DHUAR!"
-sleep 0.6;clear
-echo " "
-echo "       JANCOK!"
 sleep 1;clear
-echo " "
+echo "   0"
+sleep 1.5;clear
+
+# Punchline
+echo " DHUAR!"
+sleep 0.2;clear
+echo "        JAN"
+sleep 0.3;clear
+echo "           COK!"
+sleep 1;clear
+
+# After
 echo " :D"
-sleep 2
-echo " "
+sleep 2;clear
 echo " Just kidding!"
 sleep 3;clear
- 
+#######################
+
 # Setup sudo
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
@@ -73,5 +68,5 @@ chmod 700 /data/data/com.termux/files/usr/bin/sudo
 echo ' Setup Preferences...'
 sleep 5
 clear
-echo ' exiting... '
-sleep 3;cd /;exit
+echo ' Exiting... '
+sleep 3 && cd $HOME && exit
