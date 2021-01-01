@@ -11,5 +11,8 @@ cat sudo > /data/data/com.termux/files/usr/bin/sudo
 # Giving permission
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 clear
-sudo 
+
+# add key feature
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings && sleep 1 && logout
+
 
