@@ -9,7 +9,6 @@ sleep 4;clear
 apt update;clear
 
 # Installing ncurses-utils to avoid eror
-echo ' '
 echo ' Installing addons to avoid eror...'
 sleep 4;clear
 apt install ncurses-utils;clear
@@ -45,9 +44,9 @@ sleep 1.5;clear
 
 # Punchline
 echo " DHUAR!"
-sleep 0.2;clear
-echo "        JAN"
 sleep 0.3;clear
+echo "        JAN"
+sleep 0.1;clear
 echo "           COK!"
 sleep 1;clear
 
@@ -69,4 +68,4 @@ echo ' Setup Preferences...'
 sleep 5
 clear
 echo ' Exiting... '
-sleep 3 && cd $HOME && exit
+sleep 3
