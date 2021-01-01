@@ -32,28 +32,28 @@ echo "   7"
 sleep 1;clear
 echo " "
 echo "   6"
-sleep 2;clear
+sleep 1;clear
 echo " "
 echo "   5"
-sleep 2;clear
+sleep 1;clear
 echo " "
 echo "   4"
-sleep 2;clear
+sleep 1;clear
 echo " "
 echo "   3"
-sleep 3;clear
+sleep 2;clear
 echo " "
 echo "   2"
-sleep 3;clear
+sleep 2;clear
 echo " "
 echo "   1"
 sleep 3;clear
 echo " "
 echo "   0"
-sleep 4;clear
+sleep 3;clear
 echo " "
 echo "  Dhuarrr! jnck"
-sleep 5;clear
+sleep 2;clear
 echo " "
 echo " Just kidding! Awokawokawok :D"
 sleep 3;clear
