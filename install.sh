@@ -28,6 +28,6 @@ cd .. && rm -rf superuser
 mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings
 
 # Dramatic scene :D
-echo '  Setup Preferences and removing files'
+echo '  Setup Preferences and removing files...'
 sleep 3 && exit
 
