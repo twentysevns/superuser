@@ -1,4 +1,4 @@
-# Termux-sudo
+# Termux
 A bash script that provides sudo for Termux
 Termux is a terminal emulator and Linux environment for Android
 
