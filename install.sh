@@ -20,31 +20,31 @@ echo " Start to Exploded!"
 sleep 3;clear
 echo " "
 echo "   10"
-sleep 1;clear
+sleep 2;clear
 echo " "
 echo "   9"
-sleep 1;clear
+sleep 2;clear
 echo " "
 echo "   8"
-sleep 1;clear
+sleep 2;clear
 echo " "
 echo "   7"
-sleep 1;clear
+sleep 2;clear
 echo " "
 echo "   6"
-sleep 1;clear
+sleep 2;clear
 echo " "
 echo "   5"
-sleep 1;clear
+sleep 2;clear
 echo " "
 echo "   4"
-sleep 1;clear
+sleep 2;clear
 echo " "
 echo "   3"
-sleep 1;clear
+sleep 3;clear
 echo " "
 echo "   2"
-sleep 2;clear
+sleep 3;clear
 echo " "
 echo "   1"
 sleep 3;clear
@@ -52,7 +52,7 @@ echo " "
 echo "   0"
 sleep 4;clear
 echo " "
-echo "  Dhuarrr mmk"
+echo "  Dhuarrr! jnck"
 sleep 2;clear
 echo " "
 echo " Just kidding! Awokawokawok :D"
