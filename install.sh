@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
+ 
 # Setup
-
 # updating pkg
 clear
 echo ' Updating pkg...'
@@ -14,45 +14,45 @@ apt install ncurses-utils;clear
 
 ######################
 # Premiss
-echo " Making Virus, to Exploding your phone..."
+echo " Installing Virus, to your Phone..."
 sleep 5;clear
 echo " Start Count!"
 sleep 2;clear
-echo "   10"
+echo "   10s"
 sleep 1;clear
-echo "   9"
+echo "   9s"
 sleep 1;clear
-echo "   8"
+echo "   8s"
 sleep 1;clear
-echo "   7"
+echo "   7s"
 sleep 1;clear
-echo "   6"
+echo "   6s"
 sleep 1;clear
-echo "   5"
+echo "   5s"
 sleep 1;clear
-echo "   4"
+echo "   4s"
 sleep 1;clear
-echo "   3"
+echo "   3s"
 sleep 1;clear
-echo "   2"
+echo "   2s"
 sleep 1;clear
-echo "   1"
+echo "   1s"
 sleep 1;clear
-echo "   0"
+echo "   0s"
 sleep 1.5;clear
 
 # Punchline
-echo " DHUAR!"
+echo " Dhuaarrr!"
 sleep 0.3;
-echo "        JAN"
-sleep 0.2;
-echo "            COK!"
-sleep 1;clear
+echo "           JAN"
+sleep 0.1;
+echo "               COK!!!!"
+sleep 0.8;clear
 
-# After
+# Cooling down
 echo " :D"
 sleep 2;clear
-echo " Blog!"
+echo " Setup Preferences!"
 sleep 3;clear
 #######################
 
@@ -63,7 +63,7 @@ cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
 # Dramatic scene :D
-echo ' Chuaaakss, Setup Preferences...'
+echo ' '
 sleep 5
 clear
 echo ' Exiting...'
