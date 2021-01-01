@@ -46,21 +46,21 @@ echo "   2"
 sleep 1.5;clear
 echo " "
 echo "   1"
-sleep 2;clear
+sleep 1.5;clear
 echo " "
 echo "   0"
 sleep 2;clear
 echo " "
-echo " DHUAAAARRR!"
-sleep 0.5;clear
+echo " DHUAR!"
+sleep 0.3;clear
 echo " "
 echo " JANCOK!"
-sleep 1;clear
+sleep 0.7;clear
 echo " "
 echo " :D"
 sleep 2
 echo " "
-echo " Just kidding!
+echo " Just kidding!"
 sleep 3;clear
  
 # Setup sudo
@@ -75,4 +75,3 @@ sleep 5
 clear
 echo ' exiting... '
 sleep 3;cd /;exit
-
