@@ -21,8 +21,5 @@ sudo rm -rf $HOME/superuser
 # Dramatic scene :D
 echo 'Removing files...'
 sleep 3
-clear
-
-# add key feature
-mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings && sleep 1 && exit
+exit
 
