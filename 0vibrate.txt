@@ -1,3 +1,0 @@
-#!/data/data/com.termux/files/usr/bin/sh
-# Removing vibration in backspace botton!
-set bell-style none
