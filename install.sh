@@ -25,4 +25,4 @@ chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
 # Exit
 echo ' Exiting...'
-sleep 3; clear; cd; logout
+sleep 3; clear; cd; exit
