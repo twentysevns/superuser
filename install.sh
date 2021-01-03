@@ -23,7 +23,6 @@ cat sudo > /data/data/com.termux/files/usr/bin/sudo
 # Giving permission
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
-# Dramatic scene :D
+# Exit
 echo ' Exiting...'
-sleep 3
-exit
+sleep 3; clear; cd; logout
