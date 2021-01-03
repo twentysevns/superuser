@@ -8,7 +8,7 @@ Rooted phone with su binary
 SUDO WILL NOT WORK WITHOUT SU
 
 # Install 
-1. ```cd sudo```
+1. ```cd superuser```
 2. ```chmod +x install.sh```
 3. ```./install.sh```
 
@@ -25,7 +25,6 @@ SUDO WILL NOT WORK WITHOUT SU
 - Generates output in shell currently using
 - Can be used in other bash scripts
 - [option] Can turn off colored error messages be editing the variable ```colored``` at the beginning of sudo file
-- Adding feature key
 ```
 Usage:
 
