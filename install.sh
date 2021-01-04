@@ -7,14 +7,14 @@ echo ' Updating pkg...'
 sleep 4;clear
 apt update;clear
 
-# Installing ncurses-utils to avoid eror
+# Installing ncurses-utils to avoiding eror
 echo ' Installing addons to avoiding eror...'
 sleep 4;clear
 apt install ncurses-utils;clear
 
 
 echo " Setup Preferences!"
-sleep 3;clear
+sleep 4;clear
 #######################
 
 # Setup sudo
@@ -25,4 +25,4 @@ chmod 700 /data/data/com.termux/files/usr/bin/sudo
 
 # Exit
 echo ' Exiting...'
-sleep 3; clear; cd; exit
+sleep 3; clear; sudo; sleep 3
